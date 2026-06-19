@@ -42,9 +42,9 @@ Estou aqui para aprender, errar, melhorar e construir coisas que façam sentido.
 
 | Tema | Status |
 |------|--------|
-| Estruturas de Dados | 🔄 Em andamento |
+| Introdução ao Desenvolvimento Web | ✅ Finalizado |
 | Algoritmos | 🔄 Em andamento |
-| Programação Orientada a Objetos | 🔄 Em andamento |
+| Python | 🔄 Em andamento |
 | Git e GitHub | 🔄 Em andamento |
 
 </div>
