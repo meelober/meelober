@@ -12,15 +12,15 @@
 
 ## Sobre mim
 
-Sou estudante de Ciência da Computação na **UFFS** e cresci rodeado de computadores e jogos — foi assim que nasceu minha paixão pela tecnologia. Hoje estou no início da minha jornada como desenvolvedor e já tenho Python como minha primeira linguagem. 
+Sou estudante de Ciência da Computação na **UFFS** e cresci rodeado de computadores e jogos — foi assim que nasceu minha paixão pela tecnologia. Hoje estou no início da minha jornada como desenvolvedor e já tenho **Python** como minha primeira linguagem.
 
 Estou aqui para aprender, errar, melhorar e construir coisas que façam sentido. A área de computação é enorme e quero explorar o máximo possível dela.
 
-- 🎓 Cursando **Ciência da Computação** na UFFS
-- 🐍 Aprendendo **Python** no primeiro semestre
-- 🎮 Gamer nas horas vagas — jogos me ensinaram muito sobre lógica e persistência
-- 📍 Chapecó, SC — Brasil
-- 📬 Aberto a conexões, projetos e troca de conhecimento
+- 🎓 Cursando **Ciência da Computação** na UFFS  
+- 🐍 Aprendendo **Python** no primeiro semestre  
+- 🎮 Gosto muito de jogos e computadores no geral  
+- 📍 Chapecó, SC — Brasil  
+- 📬 Aberto a conexões, projetos e troca de conhecimento  
 
 ---
 
@@ -42,10 +42,10 @@ Estou aqui para aprender, errar, melhorar e construir coisas que façam sentido.
 
 | Tema | Status |
 |------|--------|
-| Introdução ao Desenvolvimento Web | ✅ Finalizado |
-| Algoritmos | 🔄 Em andamento |
 | Python | 🔄 Em andamento |
-| Git e GitHub | 🔄 Em andamento |
+| Algoritmos e Programação | 🔄 Em andamento |
+| Lógica de Programação | 🔄 Em andamento |
+| Git e GitHub | 📅 Próximos estudos |
 
 </div>
 
@@ -55,11 +55,11 @@ Estou aqui para aprender, errar, melhorar e construir coisas que façam sentido.
 
 <div align="center">
 
-[![Sistema de Biblioteca](https://github-readme-stats.vercel.app/api/pin/?username=meelober&repo=trabalho-final-algoritmos&theme=tokyo-night&border_color=7AA2F7)](https://github.com/meelober/trabalho-final-algoritmos)
+[![Sistema de Biblioteca](https://github-readme-stats.vercel.app/api/pin/?username=meelober&repo=trabalho-final-algoritmos&theme=tokyonight&border_color=7AA2F7)](https://github.com/meelober/trabalho-final-algoritmos)
 
 </div>
 
-**Sistema de Biblioteca** — projeto desenvolvido em Python para gerenciamento de empréstimos de livros. Foi meu trabalho final da disciplina de Algoritmos e Programação, onde coloquei em prática os conceitos aprendidos no semestre.
+**Sistema de Biblioteca** — projeto desenvolvido em Python para gerenciamento de empréstimos de livros.
 
 ---
 
@@ -67,14 +67,14 @@ Estou aqui para aprender, errar, melhorar e construir coisas que façam sentido.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=meelober&show_icons=true&theme=tokyo-night&border_color=7AA2F7&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meelober&layout=compact&theme=tokyo-night&border_color=7AA2F7" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=meelober&show_icons=true&theme=tokyonight&border_color=7AA2F7&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meelober&layout=compact&theme=tokyonight&border_color=7AA2F7" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=meelober&theme=tokyo-night&border=7AA2F7&ring=7AA2F7&fire=FF9E64&currStreakLabel=7AA2F7)
+![GitHub Streak](https://streak-stats.demolab.com?user=meelober&theme=tokyonight&border=7AA2F7&ring=7AA2F7&fire=FF9E64&currStreakLabel=7AA2F7)
 
 </div>
 
@@ -95,7 +95,7 @@ Estou aqui para aprender, errar, melhorar e construir coisas que façam sentido.
 
 [![GitHub](https://img.shields.io/badge/GitHub-meelober-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meelober)
 [![Instagram](https://img.shields.io/badge/Instagram-meelo.ber-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/meelo.ber)
-[![Discord](https://img.shields.io/badge/Discord-purificado.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/purificado.)
+![Discord](https://img.shields.io/badge/Discord-purificado.-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 [![E-mail](https://img.shields.io/badge/E--mail-bernardo.melo.rodrigues%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bernardo.melo.rodrigues@gmail.com)
 
 </div>
